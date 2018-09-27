@@ -1,0 +1,8 @@
+[package]
+name = "nes"
+version = "0.1.0"
+authors = ["Daisuke HIGASHI <me@lulichn.net>"]
+edition = "2018"
+
+[dependencies]
+image = "*"
